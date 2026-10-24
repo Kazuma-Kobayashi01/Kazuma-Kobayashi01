@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:264653,45:5b6d9c,75:d96c8a,100:c8553d&height=180&section=header&text=Kazuma%20Kobayashi&fontSize=40&fontColor=f7f1e5&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descSize=16" alt="Japanese-inspired profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:264653,45:5b6d9c,75:d96c8a,100:c8553d&height=180&section=header&text=Kazuma%20Kobayashi&fontSize=40&fontColor=f7f1e5&fontAlignY=3[...]
 
 # こんにちは、I'm Kazuma 👋
 
@@ -26,11 +26,19 @@ I enjoy building simple, reliable, and maintainable software with a focus on nat
 
 ### ⚙️ Systems
 
+![C](https://img.shields.io/badge/C-264653?style=for-the-badge&logo=c&logoColor=f7f1e5)
 ![C++](https://img.shields.io/badge/C%2B%2B-264653?style=for-the-badge&logo=c%2B%2B&logoColor=f7f1e5)
+![Swift](https://img.shields.io/badge/Swift-5b6d9c?style=for-the-badge&logo=swift&logoColor=f7f1e5)
+![CUDA](https://img.shields.io/badge/CUDA-d96c8a?style=for-the-badge&logo=nvidia&logoColor=f7f1e5)
+![Metal](https://img.shields.io/badge/Metal-c8553d?style=for-the-badge&logo=apple&logoColor=f7f1e5)
 ![Rust](https://img.shields.io/badge/Rust-c8553d?style=for-the-badge&logo=rust&logoColor=f7f1e5)
 
 ### 📱 App Development
 
+![Android](https://img.shields.io/badge/Android-264653?style=for-the-badge&logo=android&logoColor=f7f1e5)
+![macOS](https://img.shields.io/badge/macOS-5b6d9c?style=for-the-badge&logo=apple&logoColor=f7f1e5)
+![Linux](https://img.shields.io/badge/Linux-d96c8a?style=for-the-badge&logo=linux&logoColor=f7f1e5)
+![Docker](https://img.shields.io/badge/Docker-c8553d?style=for-the-badge&logo=docker&logoColor=f7f1e5)
 ![Flutter](https://img.shields.io/badge/Flutter-5b6d9c?style=for-the-badge&logo=flutter&logoColor=f7f1e5)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-d96c8a?style=for-the-badge&logo=swift&logoColor=f7f1e5)
 
@@ -40,7 +48,7 @@ I enjoy building simple, reliable, and maintainable software with a focus on nat
 
 <div align="center">
 
-🌸　**C++ & Rust** for systems and performance　·　**Flutter & SwiftUI** for elegant app experiences　🌸
+🌸　**C, C++, Swift, CUDA & Metal** for systems and performance　·　**Android, macOS, Linux & Docker** for app and platform experiences　🌸
 
 </div>
 
