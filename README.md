@@ -1,6 +1,8 @@
 <div align="center">
 
-# こんにちは、I'm Kazuma 👋
+# こんにちは、小林 和真 👋
+
+<sub>Hello, I'm Kazuma Kobayashi 👋</sub>
 
 **Software Developer · Builder · Lifelong Learner**
 
