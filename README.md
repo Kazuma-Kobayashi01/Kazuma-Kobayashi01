@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:264653,45:5b6d9c,75:d96c8a,100:c8553d&height=180&section=header&text=Kazuma%20Kobayashi&fontSize=40&fontColor=f7f1e5&fontAlign=50&fontAlignY=35" alt="Kazuma Kobayashi profile header" />
-
 # こんにちは、I'm Kazuma 👋
 
 **Software Developer · Builder · Lifelong Learner**
@@ -65,8 +63,6 @@ See my latest work and experiments in the [**repositories**](https://github.com/
 **よろしくお願いします！**
 
 🌸　🌸　🌸
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8553d,35:d96c8a,65:5b6d9c,100:264653&height=100&section=footer" alt="Japanese-inspired profile footer" />
 
 </div>
 
