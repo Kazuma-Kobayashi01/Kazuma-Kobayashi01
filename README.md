@@ -24,24 +24,25 @@ I enjoy building simple, reliable, and maintainable software with a focus on nat
 
 <div align="center">
 
+### ⚙️ Systems
+
 ![C++](https://img.shields.io/badge/C%2B%2B-264653?style=for-the-badge&logo=c%2B%2B&logoColor=f7f1e5)
 ![Rust](https://img.shields.io/badge/Rust-c8553d?style=for-the-badge&logo=rust&logoColor=f7f1e5)
+
+### 📱 App Development
+
 ![Flutter](https://img.shields.io/badge/Flutter-5b6d9c?style=for-the-badge&logo=flutter&logoColor=f7f1e5)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-d96c8a?style=for-the-badge&logo=swift&logoColor=f7f1e5)
 
 </div>
 
-| Area | Focus |
-| --- | --- |
-| **Systems** | C++ · Rust |
-| **Cross-platform** | Flutter |
-| **Apple Platforms** | SwiftUI |
-
 ## Current Focus
 
-- Developing with **C++** and **Rust**
-- Exploring elegant interfaces with **Flutter** and **SwiftUI**
-- Improving architecture, performance, and developer experience
+<div align="center">
+
+🌸　**C++ & Rust** for systems and performance　·　**Flutter & SwiftUI** for elegant app experiences　🌸
+
+</div>
 
 ## Projects & Updates
 
