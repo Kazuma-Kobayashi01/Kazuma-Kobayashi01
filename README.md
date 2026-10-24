@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:264653,45:5b6d9c,75:d96c8a,100:c8553d&height=180&section=header&text=Kazuma%20Kobayashi&fontSize=40&fontColor=f7f1e5&fontAlignY=3[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:264653,45:5b6d9c,75:d96c8a,100:c8553d&height=180&section=header&text=Kazuma%20Kobayashi&fontSize=40&fontColor=f7f1e5&fontAlign=50&fontAlignY=35" alt="Kazuma Kobayashi profile header" />
 
 # こんにちは、I'm Kazuma 👋
 
